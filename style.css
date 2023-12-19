@@ -1,3 +1,8 @@
 body {
-    background: blueviolet;
+    background-color: blueviolet;
+    display: flex;
+}
+
+h1 {
+    font-size: 22px;
 }
